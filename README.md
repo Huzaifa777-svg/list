@@ -32,10 +32,3 @@ This repository contains a complete collection of beginner-friendly tasks focuse
 
 ---
 
-## 💡 Example Snippets
-
-```python
-# Replace first element with "apple"
-my_list = [1, 2, 7, 5, 4]
-my_list[0] = "apple"
-print(my_list)
